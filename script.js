@@ -1,5 +1,5 @@
 //your JS code here. If required.
-const readline=require('read line');
+const readline=require('readline');
 const r1=readlne.createinterface({input:process.stdin,output:process.stdout});
 r1.on('line',(year)=>
 	{
