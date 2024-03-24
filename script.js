@@ -6,8 +6,8 @@ r1.on('line',(year)=>
 		let y=year;
 		if (y%4==0)
 		{
-		console.log("366")	;
+		window.alert("366")	;
 		}
 		else
-			console.log("365");
+			window.alert("365");
 	});
