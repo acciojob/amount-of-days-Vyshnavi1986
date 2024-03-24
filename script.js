@@ -10,4 +10,4 @@ r1.on('line',(year)=>
 		}
 		else
 			console.log("365");
-	})
+	});
